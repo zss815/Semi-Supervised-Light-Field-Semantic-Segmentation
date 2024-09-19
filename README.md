@@ -1,5 +1,5 @@
 # Semi-Supervised Semantic Segmentation for Light Field Images Using Disparity Information
-The source codes of the paper **Semi-Supervised Semantic Segmentation for Light Field Images Using Disparity Information** published on *IEEE Transactions on Image Processing*.
+The source codes of the paper [**Semi-Supervised Semantic Segmentation for Light Field Images Using Disparity Information**](https://ieeexplore.ieee.org/document/10638478) published on *IEEE Transactions on Image Processing*.
 
 ## Requirements
 
