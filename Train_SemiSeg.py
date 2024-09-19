@@ -501,6 +501,6 @@ if __name__=='__main__':
     parser.add_argument('--model_path',default='/mnt/disk/sszhang/save_models/DeepLabv3+50/model.pth',type=str)
     args = parser.parse_known_args()[0]
     
-    os.environ["CUDA_VISIBLE_DEVICES"] = "2"
+    os.environ["CUDA_VISIBLE_DEVICES"] = "0"
     
     train(args)
