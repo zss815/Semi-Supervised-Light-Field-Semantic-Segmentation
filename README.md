@@ -1,1 +1,1 @@
-# LF-semantic-segmentation
+# Semi-Supervised Light Field Semantic Segmentation
