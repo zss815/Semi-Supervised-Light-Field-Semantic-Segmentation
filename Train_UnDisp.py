@@ -137,7 +137,7 @@ def train(args):
 if __name__=='__main__':  
     
     parser = argparse.ArgumentParser(description='Disparity')
-    parser.add_argument('--data_root', default='/mnt/nfsshare2/sszhang/LFUrban', type=str)
+    parser.add_argument('--data_root', default='', type=str)
     parser.add_argument('--batch_size', default=2, type=int)
     parser.add_argument('--lr_init', default=5e-4, type=float)
     parser.add_argument('--crop_size', default=256, type=int)
