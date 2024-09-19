@@ -15,8 +15,8 @@ The source codes of the paper **Semi-Supervised Semantic Segmentation for Light 
 If you find this work is helpful to you, please cite the following paper:
 
 ```
-@article{Zhang2023,
-author={Shansi Zhang and Yaping Zhao and Edmund Y. Lam},
+@article{Zhang2024,
+author={Shansi Zhang, Yaping Zhao and Edmund Y. Lam},
 journal={IEEE Transactions on Image Processing}, 
 title={Semi-Supervised Semantic Segmentation for Light Field Images Using Disparity Information}, 
 volume={33},
